@@ -14,7 +14,7 @@ This project is a part of the **Proyecto 1 de Innovación Tecnológica** course 
 | -------------------- | ----------------------------------------------- |
 | Jairo Andrés Valencia| [jaanvagu@gmail.com](mailto:juankamn@gmail.com) |
 | Juan Camilo Macías   | [juankamn@gmail.com](mailto:juankamn@gmail.com) |
-| Isabel Cristian Ruiz | [iris9112@gmail.com](mailto:iris9112@gmail.com) |
+| Isabel Cristina Ruiz | [iris9112@gmail.com](mailto:iris9112@gmail.com) |
 
 **Instructor: Milton Orlando Sarria Paja**
 
