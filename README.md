@@ -1,4 +1,4 @@
-# Cancer Detection ML Project
+# Problematic Internet Use ML Project
 
 This project is a part of the **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia.
 
@@ -10,11 +10,11 @@ This project is a part of the **Proyecto 1 de Innovación Tecnológica** course 
 
 #### Members:
 
-| Name                 | Email                                           |
-| -------------------- | ----------------------------------------------- |
-| Jairo Andrés Valencia| [jaanvagu@gmail.com](mailto:juankamn@gmail.com) |
-| Juan Camilo Macías   | [juankamn@gmail.com](mailto:juankamn@gmail.com) |
-| Isabel Cristina Ruiz | [iris9112@gmail.com](mailto:iris9112@gmail.com) |
+| Name                  | Email                                           |
+| --------------------- | ----------------------------------------------- |
+| Jairo Andrés Valencia | [jaanvagu@gmail.com](mailto:jaanvagu@gmail.com) |
+| Juan Camilo Macías    | [juankamn@gmail.com](mailto:juankamn@gmail.com) |
+| Isabel Cristina Ruiz  | [iris9112@gmail.com](mailto:iris9112@gmail.com) |
 
 **Instructor: Milton Orlando Sarria Paja**
 
@@ -24,7 +24,7 @@ This project is a part of the **Proyecto 1 de Innovación Tecnológica** course 
 
 ## Project Intro/Objective
 
-The purpose of this project is to explore the use of machine learning techniques to support early cancer detection through medical image analysis. The project focuses on understanding the challenges faced in medical diagnostics, particularly the high volume of images and the need for accurate and timely interpretation. By leveraging artificial intelligence, the project aims to contribute to more efficient and reliable diagnostic support systems.
+The purpose of this project is to explore the use of machine learning techniques to predict problematic internet use in children and adolescents based on physical activity and fitness data. The project focuses on understanding behavioral patterns that may indicate unhealthy digital habits and supporting early identification through data-driven approaches.
 
 ### Methods Used
 
@@ -41,7 +41,9 @@ The purpose of this project is to explore the use of machine learning techniques
 
 ## Project Description
 
-This project addresses the problem of early cancer detection using medical imaging data. The current diagnostic process can be time-consuming and prone to variability due to human interpretation. The project will explore how machine learning models can assist in identifying patterns in medical images to improve diagnostic efficiency and accuracy.
+This project addresses the challenge of identifying problematic internet use using accessible physical activity and fitness indicators. Traditional assessment methods can be complex and require clinical expertise, making early detection difficult.
+
+The project will explore how machine learning models can analyze behavioral and physical data to identify patterns associated with problematic internet usage and support early interventions.
 
 The project includes:
 
