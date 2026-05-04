@@ -67,6 +67,4 @@ Los trabajos de investigación y las soluciones de los participantes destacan la
 - técnicas de **imputación avanzada** para manejar valores faltantes, 
 - **reducción de dimensionalidad** y **auto‑codificadores** para procesar la actigrafía, 
 - **modelos híbridos** que combinan redes neuronales recurrentes para series temporales y árboles de gradiente para datos tabulares, y 
-- estrategias de **balanceo de clases** mediante ponderación o generación sintética de ejemplos.  
-
-A pesar de las limitaciones de acceso a la página de Kaggle por cuestiones técnicas, los documentos científicos disponibles proporcionan una descripción detallada del conjunto de datos, los desafíos y las aproximaciones de modelado para este problema.
+- estrategias de **balanceo de clases** mediante ponderación o generación sintética de ejemplos.
